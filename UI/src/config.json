@@ -1,0 +1,5 @@
+{
+  "api": { 
+    "invokeUrl": "https://1skntfr8df.execute-api.us-east-1.amazonaws.com/prod"
+  } 
+}
